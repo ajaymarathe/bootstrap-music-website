@@ -2,7 +2,7 @@
 bootstrap-music-website is fully responsive template for those who like music, based on bootstrap, Thanks :)
 
 ### first-shot
-[![bootstrap simple blog](http://preview.bootcatch.com/bootstrap-music-website/img/music-templates.png)](http://preview.bootcatch.com/bootstrap-music-website/)
+[![bootstrap simple blog](https://github.com/ajaymarathe/bootstrap-music-website/blob/master/img/music-templates.png)](http://preview.bootcatch.com/bootstrap-music-website/)
 
 
 ## About
