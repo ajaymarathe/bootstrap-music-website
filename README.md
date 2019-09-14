@@ -2,14 +2,14 @@
 bootstrap-music-website is fully responsive template for those who like music, based on bootstrap, Thanks :)
 
 ### first-shot
-[![bootstrap simple blog](https://github.com/ajaymarathe/bootstrap-music-website/blob/master/img/music-templates.png)](http://preview.bootcatch.com/bootstrap-music-website/)
+[![bootstrap simple blog](https://github.com/ajaymarathe/bootstrap-music-website/blob/master/img/music-templates.png)](https://ajaymarathe.github.io/bootstrap-music-website/)
 
 
 ## About
 
 Bootcatch is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Bootcatch are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
 
-* http://preview.bootcatch.com/bootstrap-music-website/
+* https://ajaymarathe.github.io/bootstrap-music-website/
 * http://bootcatch.com
 
 ## Usage
